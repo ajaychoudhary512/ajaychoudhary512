@@ -57,7 +57,7 @@ AI-assisted digital healthcare project.
 
 **Focus:** healthcare workflows, machine learning, and medical image analysis.
 
-[View repository](https://github.com/ajaychoudhary512/ArogyaXisme)
+[View repository](https://github.com/ajaychoudhary512/ArogyaX)
 
 </td>
 <td width="50%" valign="top">
@@ -67,7 +67,7 @@ Emergency vehicle alert and response project.
 
 **Focus:** mobile workflows, alerts, and navigation support.
 
-[View repository](https://github.com/ajaychoudhary512/Sewaa)
+[View repository](https://github.com/ajaychoudhary512/Sewaaa)
 
 </td>
 </tr>
