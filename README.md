@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./ajay-github-profile-ready/assets/ajay-intro.gif" alt="Ajay Choudhary animated portrait" width="260" />
+<img src="./ajay-github-profile-ready/assests/ajay-intro.gif" alt="Ajay Choudhary animated portrait" width="260" />
 
 # Ajay Choudhary
 
